@@ -1,4 +1,5 @@
 # Tic-Tac-Toe in React
+![](https://raw.githubusercontent.com/jeffleu/tic-tac-toe/master/src/client/images/demo.gif)
 
 ## Requirements
 * [Node.js](https://nodejs.org/) v6.x.x
