@@ -28,7 +28,7 @@ Once you have all the requirements fulfilled and dependancies installed, run the
 ```
 npm start
 ```
-Once the server has started, navigate to [`localhost:8080`](localhost:8080) in your browser to play!
+Once the server has started, navigate to `localhost:8080` in your browser to play!
 
 ## Development
 If you would like to contribute, you are more than welcome to make a pull request as this game is only in its early stages. Execute the following command to start up the development server. The script actively uses `nodemon`, which is a utility that will monitor for any changes in your source and automatically restart your server.
