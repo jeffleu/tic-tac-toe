@@ -1,0 +1,68 @@
+body {
+  font-family: 'Lucida Sans Unicode';
+  background: #6441A5;
+  background: -webkit-linear-gradient(to left, #6441A5 , #2a0845);
+  background: linear-gradient(to left, #6441A5 , #2a0845);
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+}
+
+table {
+  margin: 0 auto;
+}
+
+.button {
+  background-color: #303030;
+  color: #6441A5;
+  height: 30px;
+  width: 100px;
+  border-radius: 5px;
+  margin: 0 auto;
+  margin-bottom: 25px;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  transition: background-color 0.5s, color 0.5s;
+}
+
+.button:hover {
+  color: #FFFFFF;
+  transition: color 0.5s;
+}
+
+.cell {
+  height: 100px;
+  width: 100px;
+  background-color: #303030;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.cell:hover {
+  background-color: #3D3D3D;
+}
+
+.message {
+  text-align: center;
+  font-size: 17px;
+}
+
+.play {
+  color: #FFFFFF;
+  font-size: 100px;
+}
+
+.subtitle {
+  text-align: center;
+  margin: -30px 0 25px 0;
+}
